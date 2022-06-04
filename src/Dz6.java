@@ -1,7 +1,7 @@
 import javax.sound.midi.Soundbank;
 import java.sql.SQLOutput;
 
-public class Arifmetika {
+public class Dz6{
 
     public static void main(String[] args) {
 
